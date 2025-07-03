@@ -35,7 +35,7 @@ function App() {
               name="senha"
               placeholder="Digite a senha"
             />
-            <button className="p-2 mt-2 ml-auto mr-auto w-full bg-[#770B91] text-white font-[20px] rounded-[5px] hover:bg-[#560873] cursor-pointer">
+            <button className="p-2 mt-2 ml-auto mr-auto w-full bg-[#770B91] text-white font-[20px] rounded-[5px] hover:bg-[#560873] cursor-pointer focus:outline-[2px] focus:outline-offset-2 focus:outline-[#560873]">
               Entrar
             </button>
           </form>
